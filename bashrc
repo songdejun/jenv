@@ -1,6 +1,6 @@
 base_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 
-alias ce='cd $base_dir'
+alias je='cd $base_dir'
 alias vb="vim $base_dir/bashrc"
 alias sb='source ~/.bashrc'
 alias st='tmux source-file ~/.tmux.conf'
