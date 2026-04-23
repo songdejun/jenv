@@ -25,9 +25,6 @@ alias tl='tmux ls'
 alias ta='tmux attach -t'
 alias tk='tmux kill-session -t'
 
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-
 alias sudo=''
 
 alias du='du -h --max-depth=1'
